@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **NuLeKbtw/nulekbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Gabreil]! 👋
+# Hi, I'm Gabreil! 👋
 
 I am an **Aspiring Fullstack Developer** and a passionate coder, currently focused on building a solid foundation in core web technologies.
 
