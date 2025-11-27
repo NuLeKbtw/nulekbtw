@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Gabreil! 👋
+# Hi, I'm Gabriel! 👋
 
 I am an **Aspiring Fullstack Developer** and a passionate coder, currently focused on building a solid foundation in core web technologies.
 
